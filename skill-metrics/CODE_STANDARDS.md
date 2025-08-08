@@ -22,7 +22,7 @@ src/
 ├── api/                  # API-related code and services
 ├── assets/               # Static assets like images, icons, and fonts
 ├── components/           # Reusable UI components (grouped by module)
-│   ├── ui/               # Base UI components
+│   ├── ui/               # Base UI components(DashboardCard/index.jsx)
 │   ├── [module-name]/    # Module-specific components
 ├── layout/               # Layout components and templates
 ├── pages/                # Page components corresponding to routes
